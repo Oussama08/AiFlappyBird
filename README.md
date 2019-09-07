@@ -2,7 +2,7 @@
 
 Flappy Bird played by an Ai , developed by Python , using NEAT .
 
-#What NEAT needs :
+# What NEAT needs :
 
 Inputs ( in our case it's the bird elevation , and the Pipes )
 
