@@ -6,7 +6,7 @@ Flappy Bird played by an Ai , developed by Python , using NEAT .
 
 Inputs ( in our case it's the bird elevation , and the Pipes )
 
-Outputs ( Jupr or not )
+Outputs ( Jump or not )
 
 Activation function ( We're gonna use Tanh function )
 
