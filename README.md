@@ -1,6 +1,6 @@
 # AiFlappyBird
 
-Flappy Bird played by an Ai , developed by Python , using NEAT .
+Flappy Bird played by an Ai , developed by Python , using NEAT . You Can Run it Using PyCharm ( recommended ) , or any other Python IDE.
 
 # What NEAT needs :
 
