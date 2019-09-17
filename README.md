@@ -15,3 +15,6 @@ Population size ( I Set the population on 50 birds in the beginning , but you ca
 Fitness Function ( it's How the Birds are going to react and Grow their intelligence.)
 
 Max Generations ( We put a limit where the Ai should Stop trying , works on complex situations , so we're cool ^^ )
+
+![flappy_ai](https://user-images.githubusercontent.com/44874674/65080426-34c41480-d999-11e9-8d0a-0b443bec127a.jpg)
+
